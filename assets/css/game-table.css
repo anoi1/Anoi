@@ -1,0 +1,22 @@
+.container-white {
+  position: relative;
+  text-align: center;
+  color: white;
+}
+
+.container-black {
+    position: relative;
+    text-align: center;
+    color: black;
+  }
+
+.bottom-center {
+  position: absolute;
+  bottom: 0.5%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+
+table, th, td {
+    border:1px solid black;
+  }
